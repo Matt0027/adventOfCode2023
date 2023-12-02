@@ -5,3 +5,10 @@ C:\Users\Mine\source\repos\AdventOfCode2023\AdventOfCode2023\obj\Debug\AdventOfC
 C:\Users\Mine\source\repos\AdventOfCode2023\AdventOfCode2023\obj\Debug\AdventOfCode2023.csproj.CoreCompileInputs.cache
 C:\Users\Mine\source\repos\AdventOfCode2023\AdventOfCode2023\obj\Debug\AdventOfCode2023.exe
 C:\Users\Mine\source\repos\AdventOfCode2023\AdventOfCode2023\obj\Debug\AdventOfCode2023.pdb
+C:\Users\Mine\Documents\GitHub\adventOfCode2023\AdventOfCode2023\bin\Debug\AdventOfCode2023.exe.config
+C:\Users\Mine\Documents\GitHub\adventOfCode2023\AdventOfCode2023\bin\Debug\AdventOfCode2023.exe
+C:\Users\Mine\Documents\GitHub\adventOfCode2023\AdventOfCode2023\bin\Debug\AdventOfCode2023.pdb
+C:\Users\Mine\Documents\GitHub\adventOfCode2023\AdventOfCode2023\obj\Debug\AdventOfCode2023.csproj.AssemblyReference.cache
+C:\Users\Mine\Documents\GitHub\adventOfCode2023\AdventOfCode2023\obj\Debug\AdventOfCode2023.csproj.CoreCompileInputs.cache
+C:\Users\Mine\Documents\GitHub\adventOfCode2023\AdventOfCode2023\obj\Debug\AdventOfCode2023.exe
+C:\Users\Mine\Documents\GitHub\adventOfCode2023\AdventOfCode2023\obj\Debug\AdventOfCode2023.pdb
