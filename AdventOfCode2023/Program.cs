@@ -27,9 +27,18 @@ namespace AdventOfCode2023
             //Console.WriteLine(Day2.Day2Main(dayTwoExampleInput));
             //Console.WriteLine(Day2.Day2Main2(dayTwoExampleInput));
 
-            var dayTwoInput = File.ReadAllLines(@"C:\Users\Mine\Documents\AdventOfCodeInput\AoC Day2 Input.txt");
-            Console.WriteLine(Day2.Day2Main(dayTwoInput));
-            Console.WriteLine(Day2.Day2Main2(dayTwoInput));
+            //var dayTwoInput = File.ReadAllLines(@"C:\Users\Mine\Documents\AdventOfCodeInput\AoC Day2 Input.txt");
+            //Console.WriteLine(Day2.Day2Main(dayTwoInput));
+            //Console.WriteLine(Day2.Day2Main2(dayTwoInput));
+
+            //-----------------------------------------------------------------------------------------------
+
+            // Day 3
+            //var dayThreeExampleInput = File.ReadAllLines(@"C:\Users\Mine\Documents\AdventOfCodeInput\AoC Day3 Example.txt");
+            //Console.WriteLine(Day3.Day3Main(dayThreeExampleInput));
+
+            var dayThreeInput = File.ReadAllLines(@"C:\Users\Mine\Documents\AdventOfCodeInput\AoC Day3 Input.txt");
+            Console.WriteLine("The sum of all of the part numbers in the engine schematic is " + Day3.Day3Main(dayThreeInput));
         }
     }
 }
