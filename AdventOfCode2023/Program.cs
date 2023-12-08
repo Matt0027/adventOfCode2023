@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
+using System.Xml.Linq;
 
 namespace AdventOfCode2023
 {
@@ -36,9 +38,20 @@ namespace AdventOfCode2023
             // Day 3
             //var dayThreeExampleInput = File.ReadAllLines(@"C:\Users\Mine\Documents\AdventOfCodeInput\AoC Day3 Example.txt");
             //Console.WriteLine(Day3.Day3Main(dayThreeExampleInput));
+            //Console.WriteLine(Day3.Day3Main2(dayThreeExampleInput));
 
-            var dayThreeInput = File.ReadAllLines(@"C:\Users\Mine\Documents\AdventOfCodeInput\AoC Day3 Input.txt");
-            Console.WriteLine("The sum of all of the part numbers in the engine schematic is " + Day3.Day3Main(dayThreeInput));
+            //var dayThreeInput = File.ReadAllLines(@"C:\Users\Mine\Documents\AdventOfCodeInput\AoC Day3 Input.txt");
+            //Console.WriteLine(Day3.Day3Main(dayThreeInput));
+            //Console.WriteLine(Day3.Day3Main2(dayThreeInput));
+
+            // Day 4
+            var dayFourExampleInput = File.ReadAllLines(@"C:\Users\Mine\Documents\AdventOfCodeInput\AoC Day4 Example.txt");
+            //Console.WriteLine("Example answer: " + Day4.Day4Main(dayFourExampleInput));
+            Console.WriteLine("Example answer: " + Day4.Day4Main2(dayFourExampleInput));
+
+            var dayFourInput = File.ReadAllLines(@"C:\Users\Mine\Documents\AdventOfCodeInput\AoC Day4 Input.txt");
+            //Console.WriteLine("Answer: " + Day4.Day4Main(dayFourInput));
+            Console.WriteLine("Answer: " + Day4.Day4Main2(dayFourInput));
         }
     }
 }
