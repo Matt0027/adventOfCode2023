@@ -44,6 +44,8 @@ namespace AdventOfCode2023
             //Console.WriteLine(Day3.Day3Main(dayThreeInput));
             //Console.WriteLine(Day3.Day3Main2(dayThreeInput));
 
+            //-----------------------------------------------------------------------------------------------
+
             // Day 4
             //var dayFourExampleInput = File.ReadAllLines(@"C:\Users\Mine\Documents\AdventOfCodeInput\AoC Day4 Example.txt");
             ////Console.WriteLine("Example answer: " + Day4.Day4Main(dayFourExampleInput));
@@ -53,15 +55,41 @@ namespace AdventOfCode2023
             ////Console.WriteLine("Answer: " + Day4.Day4Main(dayFourInput));
             //Console.WriteLine("Answer: " + Day4.Day4Main2(dayFourInput));
 
+            //-----------------------------------------------------------------------------------------------
+
             // Day 5
-            var dayFiveExampleInput = File.ReadAllText(@"C:\Users\Mine\Documents\AdventOfCodeInput\AoC Day5 Example.txt");
+            //var dayFiveExampleInput = File.ReadAllText(@"C:\Users\Mine\Documents\AdventOfCodeInput\AoC Day5 Example.txt");
             //Console.WriteLine(Day5.Day5Main(dayFiveExampleInput));
 
-            var dayFiveInput = File.ReadAllText(@"C:\Users\Mine\Documents\AdventOfCodeInput\AoC Day5 Input.txt");
+            //var dayFiveInput = File.ReadAllText(@"C:\Users\Mine\Documents\AdventOfCodeInput\AoC Day5 Input.txt");
             //Console.WriteLine(Day5.Day5Main(dayFiveInput));
 
-            Console.WriteLine(Day5.Day5Main2(dayFiveExampleInput));
-            Console.WriteLine(Day5.Day5Main2(dayFiveInput));
+            //Console.WriteLine(Day5.Day5Main2(dayFiveExampleInput));
+            //Console.WriteLine(Day5.Day5Main2(dayFiveInput));
+
+            //-----------------------------------------------------------------------------------------------
+
+            // Day 6
+            //var daySixExampleInput = File.ReadAllLines(@"C:\Users\Mine\Documents\AdventOfCodeInput\AoC Day6 Example.txt");
+            //Console.WriteLine(Day6.Day6Main(daySixExampleInput));
+
+            //var daySixInput = File.ReadAllLines(@"C:\Users\Mine\Documents\AdventOfCodeInput\AoC Day6 Input.txt");
+            //Console.WriteLine(Day6.Day6Main(daySixInput));
+
+            //Console.WriteLine(Day6.Day6Main2(daySixExampleInput));
+            //Console.WriteLine(Day6.Day6Main2(daySixInput));
+
+            //-----------------------------------------------------------------------------------------------
+
+            // Day 7
+            var daySevenExampleInput = File.ReadAllLines(@"C:\Users\Mine\Documents\AdventOfCodeInput\AoC Day7 Example.txt");
+            Console.WriteLine(Day7.Day7Main(daySevenExampleInput));
+
+            var daySevenInput = File.ReadAllLines(@"C:\Users\Mine\Documents\AdventOfCodeInput\AoC Day7 Input.txt");
+            Console.WriteLine(Day7.Day7Main(daySevenInput));
+
+            Console.WriteLine(Day7.Day7Main2(daySevenExampleInput));
+            Console.WriteLine(Day7.Day7Main2(daySevenInput));
         }
     }
 }
